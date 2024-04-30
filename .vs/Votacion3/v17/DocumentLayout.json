@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|solutionrelative:misvotos\\bll\\holaaaaaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|c:\\users\\dario\\onedrive\\escritorio\\votacion3\\misvotos\\bll\\serviciovotante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\misvotos\\bll\\serviciovotante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|solutionrelative:misvotos\\bll\\serviciovotante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "MisVotos\\BLL\\holaaaaaaaa.cs",
               "ToolTip": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\BLL\\holaaaaaaaa.cs",
               "RelativeToolTip": "MisVotos\\BLL\\holaaaaaaaa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T20:21:48.349Z",
               "EditorCaption": ""
@@ -91,8 +91,7 @@
               "RelativeToolTip": "MisVotos\\BLL\\ServicioVotante.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAmwBMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:53:28.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:53:28.283Z"
             },
             {
               "$type": "Document",
