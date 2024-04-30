@@ -1,0 +1,14 @@
+C:\Users\Estudiantes\Downloads\3\Votacion3\MisVotos\bin\Debug\MisVotos.exe.config
+C:\Users\Estudiantes\Downloads\3\Votacion3\MisVotos\bin\Debug\MisVotos.exe
+C:\Users\Estudiantes\Downloads\3\Votacion3\MisVotos\bin\Debug\MisVotos.pdb
+C:\Users\Estudiantes\Downloads\3\Votacion3\MisVotos\obj\Debug\MisVotos.csproj.AssemblyReference.cache
+C:\Users\Estudiantes\Downloads\3\Votacion3\MisVotos\obj\Debug\MisVotos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Downloads\3\Votacion3\MisVotos\obj\Debug\MisVotos.exe
+C:\Users\Estudiantes\Downloads\3\Votacion3\MisVotos\obj\Debug\MisVotos.pdb
+C:\Users\Dario\OneDrive\Escritorio\Votacion3\MisVotos\bin\Debug\MisVotos.exe.config
+C:\Users\Dario\OneDrive\Escritorio\Votacion3\MisVotos\bin\Debug\MisVotos.exe
+C:\Users\Dario\OneDrive\Escritorio\Votacion3\MisVotos\bin\Debug\MisVotos.pdb
+C:\Users\Dario\OneDrive\Escritorio\Votacion3\MisVotos\obj\Debug\MisVotos.csproj.AssemblyReference.cache
+C:\Users\Dario\OneDrive\Escritorio\Votacion3\MisVotos\obj\Debug\MisVotos.csproj.CoreCompileInputs.cache
+C:\Users\Dario\OneDrive\Escritorio\Votacion3\MisVotos\obj\Debug\MisVotos.exe
+C:\Users\Dario\OneDrive\Escritorio\Votacion3\MisVotos\obj\Debug\MisVotos.pdb
