@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\misvotos\\bll\\serviciovotante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|c:\\users\\dario\\onedrive\\escritorio\\votacion3\\misvotos\\bll\\holaaaaaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|solutionrelative:misvotos\\bll\\holaaaaaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|c:\\users\\dario\\onedrive\\escritorio\\votacion3\\misvotos\\bll\\serviciovotante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|solutionrelative:misvotos\\bll\\serviciovotante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|solutionrelative:misvotos\\gui\\votantegui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|c:\\users\\dario\\onedrive\\escritorio\\votacion3\\misvotos\\gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\misvotos\\gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAFE45D2-43A3-4C28-A5C9-8BF231EC409A}|MisVotos\\MisVotos.csproj|solutionrelative:misvotos\\gui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "holaaaaaaaa.cs",
+              "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\BLL\\holaaaaaaaa.cs",
+              "RelativeDocumentMoniker": "MisVotos\\BLL\\holaaaaaaaa.cs",
+              "ToolTip": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\BLL\\holaaaaaaaa.cs",
+              "RelativeToolTip": "MisVotos\\BLL\\holaaaaaaaa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:21:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ICrud.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\BLL\\ICrud.cs",
               "RelativeDocumentMoniker": "MisVotos\\BLL\\ICrud.cs",
@@ -62,25 +79,24 @@
               "RelativeToolTip": "MisVotos\\BLL\\ICrud.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:53:44.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:53:44.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ServicioVotante.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\BLL\\ServicioVotante.cs",
               "RelativeDocumentMoniker": "MisVotos\\BLL\\ServicioVotante.cs",
               "ToolTip": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\BLL\\ServicioVotante.cs",
               "RelativeToolTip": "MisVotos\\BLL\\ServicioVotante.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T19:53:28.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "VotanteGUI.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\GUI\\VotanteGUI.cs",
               "RelativeDocumentMoniker": "MisVotos\\GUI\\VotanteGUI.cs",
@@ -88,12 +104,11 @@
               "RelativeToolTip": "MisVotos\\GUI\\VotanteGUI.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T20:14:11.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T20:14:11.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\Program.cs",
               "RelativeDocumentMoniker": "MisVotos\\Program.cs",
@@ -101,12 +116,11 @@
               "RelativeToolTip": "MisVotos\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:36:06.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:36:06.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Votante.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\ENTITY\\Votante.cs",
               "RelativeDocumentMoniker": "MisVotos\\ENTITY\\Votante.cs",
@@ -114,12 +128,11 @@
               "RelativeToolTip": "MisVotos\\ENTITY\\Votante.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAQwAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:45:20.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:45:20.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\ENTITY\\Persona.cs",
               "RelativeDocumentMoniker": "MisVotos\\ENTITY\\Persona.cs",
@@ -127,12 +140,11 @@
               "RelativeToolTip": "MisVotos\\ENTITY\\Persona.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:38:23.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:38:23.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\GUI\\Menu.cs",
               "RelativeDocumentMoniker": "MisVotos\\GUI\\Menu.cs",
@@ -140,12 +152,11 @@
               "RelativeToolTip": "MisVotos\\GUI\\Menu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T20:10:48.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T20:10:48.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ICrudLugar.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\BLL\\ICrudLugar.cs",
               "RelativeDocumentMoniker": "MisVotos\\BLL\\ICrudLugar.cs",
@@ -153,12 +164,11 @@
               "RelativeToolTip": "MisVotos\\BLL\\ICrudLugar.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAwA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:18:55.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T20:18:55.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ServicioLugarVotacion.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\BLL\\ServicioLugarVotacion.cs",
               "RelativeDocumentMoniker": "MisVotos\\BLL\\ServicioLugarVotacion.cs",
@@ -166,12 +176,11 @@
               "RelativeToolTip": "MisVotos\\BLL\\ServicioLugarVotacion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:21:06.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T20:21:06.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LugarVotacion.cs",
               "DocumentMoniker": "C:\\Users\\Dario\\OneDrive\\Escritorio\\Votacion3\\MisVotos\\ENTITY\\LugarVotacion.cs",
               "RelativeDocumentMoniker": "MisVotos\\ENTITY\\LugarVotacion.cs",
@@ -179,8 +188,7 @@
               "RelativeToolTip": "MisVotos\\ENTITY\\LugarVotacion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:47:14.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:47:14.954Z"
             }
           ]
         }
